@@ -4,4 +4,4 @@ It's an web agency website
 #Html
 #CSS
 
-Live link: https://farihaislamm.github.io/portfolio/
+Live link: https://farihaislamm.github.io/Web-Somadhan/
